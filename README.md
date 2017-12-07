@@ -11,7 +11,7 @@ SuperAdmin comes with 10 different themes and over 40 jQuery fully customized pl
 SuperAdmin is fully Responsive and adapt well in any devices.
 
 ##Almost all the Bootstrap stock components and third party vendors are redesigned to match SuperAdmin User Interfaces.
-(https://d1dlf4qvtlhqrp.cloudfront.net/slurp?i=http%3A%2F%2Fbyrushan.com%2Fprojects%2Fsuper-admin%2Fimages%2Fsa-cover.jpg)
+![](https://d1dlf4qvtlhqrp.cloudfront.net/slurp?i=http%3A%2F%2Fbyrushan.com%2Fprojects%2Fsuper-admin%2Fimages%2Fsa-cover.jpg)
 
 ##Features
 
